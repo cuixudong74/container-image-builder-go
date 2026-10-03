@@ -1,0 +1,9 @@
+# Build output
+*.tar
+image-builder
+
+# Cache
+.build-cache/
+
+# Test artifacts
+*.test
